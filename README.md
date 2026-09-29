@@ -1,6 +1,6 @@
 # Fashion MNIST ANN Pipeline
 
-End-to-end MLOps pipeline using:
+End-to-end MLOps pipeline for classifying Fashion-MNIST images using:
 
 - Git
 - DVC
