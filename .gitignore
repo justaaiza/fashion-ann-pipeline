@@ -6,3 +6,7 @@ __pycache__/
 
 *.h5
 /models
+
+data/raw
+data/processed
+models
